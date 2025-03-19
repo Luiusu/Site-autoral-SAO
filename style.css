@@ -51,14 +51,14 @@ a:hover {
 .banner {
 
     width: 49%;
+    transition: border 0.3s ease;
+    border: 3px solid transparent;
 
 }
 
 .banner:hover {
 
-    border-color: rgb(208, 221, 23);
-    border-width: 2px;
-    border-style: solid;
+    border: 2px solid rgb(208, 221, 23);
 
 }
 
