@@ -50,7 +50,7 @@ a:hover {
 
 .banner {
 
-    width: 49%;
+    width: 50%;
     transition: border 0.3s ease;
     border: 3px solid transparent;
 
@@ -64,15 +64,15 @@ a:hover {
 
 .camisa {
 
-    width: 49%;
+    width: 50%;
+    transition: border 0.3s ease;
+    border: 3px solid transparent;
 
 }
 
 .camisa:hover {
 
-    border-color: rgb(208, 221, 23);
-    border-width: 3px;
-    border-style: solid;
+    border: 2px solid rgb(208, 221, 23);
 
 }
 
