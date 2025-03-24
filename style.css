@@ -115,5 +115,12 @@ a:hover {
     background-color: #000;
     border-radius: 50%;
     transform: scale(.9)
+    position: absolute;
+    
+}
+
+.trilho.dark .indicador{
+
+    left: 200px;
     
 }
